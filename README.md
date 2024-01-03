@@ -1,5 +1,6 @@
 
 # Ocean Explorer 🐙
+[![Made with Unity](https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=flat&logo=unity)](https://unity3d.com)
 This project was used for my bachelors degree. It explores multiple interesting topics like procedural generated terrain and wildlife simulation using machine learning.
 
 
